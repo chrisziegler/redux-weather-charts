@@ -1,25 +1,14 @@
-# ReduxSimpleStarter
+# React/Redux Weather Appplication
+Provide look-up services by city, and store cities in a list providing chart views of 5-day trends in Temperature, Pressure and Humidity. Old version of create-react-app, so running React 0.14.3 and webpack 1.14.0
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
 
-### Getting Started
+#### APIs
 
-There are two methods for getting started with this repo.
+OpenWeatherMap
+Google Maps
 
-#### Familiar with Git?
-Checkout this repo, install dependencies, then start the gulp process with the following:
+#### Libraries
+React/ReactDOM
+Lodash
+Sparklines for Charts
 
-```
-> git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
-> cd ReduxSimpleStarter
-> npm install
-> npm start
-```
-
-#### Not Familiar with Git?
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
-
-```
-> npm install
-> npm start
-```
